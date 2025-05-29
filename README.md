@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 👋 Hi, I’m luckyjp6
+- 👀 I’m studying in NTU Computer Science
+- 🔭 I’m currently working on Android development (Kotlin), full-end development
+- 🌱 I’m currently learning , c/c++, python, LLM
+- 📫 How to reach me s97259@gmail.com
+
+![luckyjp6's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyjp6&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyjp6&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **luckyjp6/luckyjp6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
